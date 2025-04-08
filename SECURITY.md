@@ -15,7 +15,7 @@ The Laravel API Starter team takes security issues seriously. We appreciate your
 To report a security vulnerability, please follow these steps:
 
 1. **DO NOT** create a public GitHub issue for security vulnerabilities
-2. Email your findings to [security@example.com] (replace with your actual security contact)
+2. Email your findings to [samkaypro@gmail.com] 
 3. Include as much information as possible:
    - Description of the vulnerability
    - Steps to reproduce
